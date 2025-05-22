@@ -1,0 +1,60 @@
+/* start slider */
+.carousel-item img {
+    height: 90vh;
+}
+
+.carousel-item .carousel-caption {
+    top: 40%;
+}
+
+.carousel-item .carousel-caption h5 {
+    font-size: 3rem;
+}
+
+.carousel-item .carousel-caption p {
+    font-size: 1.5rem;
+}
+
+/* end slider */
+/* start service */
+.service {
+    margin: 15% 0;
+}
+
+.service .icon {
+    color: rgb(13, 110, 253);
+}
+
+/* end service */
+/* start project  */
+.projects img{
+    width: 100%;
+   
+}
+/* end project  */
+.testmonials{
+    margin: 10% 0;
+}
+.testmonials img{
+    height: 22vh;
+}
+
+/* start subscribe */
+.subscribe{
+    background-image: url('../img/bg-masthead.jpg');
+    background-color: rgba(45, 52, 54,0.5);
+    background-blend-mode: multiply;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    height: 40vh;
+    padding: 10% 0;
+    color: #fff;
+
+}
+.subscribe form{
+    margin:  0 auto;
+}
+.subscribe form input[type="email"]{
+    height: 7vh;
+}
